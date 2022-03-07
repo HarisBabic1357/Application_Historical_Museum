@@ -24,9 +24,11 @@ existing entered values.
 Below are shown main window and some of windows as selected options:
 
 ![glavni](https://user-images.githubusercontent.com/101056974/156991086-bff9a352-7c05-4150-91eb-235a5bca534e.PNG)
+
 Option event:
 
 ![događaj](https://user-images.githubusercontent.com/101056974/156991185-bad3a460-e23d-4dc6-b59b-862295677a81.PNG)
+
 Option exhibit:
 
 ![eksponaat](https://user-images.githubusercontent.com/101056974/156991057-b3db57c6-5b37-45cf-93e2-870c0946b4ba.PNG)
