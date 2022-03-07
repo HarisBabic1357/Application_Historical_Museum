@@ -18,4 +18,10 @@ applications where columns are given as primary keys.
 Only the addition of new data is done through the appropriate fields, and in the case of options where 
 entity is given with foreign keys a drop-down list is created via  JComboBox  with the option already
 existing entered values.
+Below are shown main window and some of windows as selected options:
+
+![glavni](https://user-images.githubusercontent.com/101056974/156991086-bff9a352-7c05-4150-91eb-235a5bca534e.PNG)
+![događaj](https://user-images.githubusercontent.com/101056974/156991185-bad3a460-e23d-4dc6-b59b-862295677a81.PNG)
+
+![eksponaat](https://user-images.githubusercontent.com/101056974/156991057-b3db57c6-5b37-45cf-93e2-870c0946b4ba.PNG)
 
