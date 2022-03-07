@@ -2,6 +2,7 @@
 The application  was made in the EclipseIDE development environment. It is written in Java programming
 language, and the database to which the application connects is made in MySQL
 Workbench.
+//
 Trial data are located in file.zip and additional data are added through SQL script.After that, we connect on this database
 through Java DataBase Connectivity (JDBC).
 The application consists of 11 frames including the main initial. Application development is
