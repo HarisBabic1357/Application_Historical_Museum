@@ -6,7 +6,9 @@ Workbench.
 Trial data are located in fajl.zip and additional data are added through SQL script.After that, we connect on this database
 through Java DataBase Connectivity (JDBC).
 
-File hist_muzej_bazaa are SQL script, and other individual files are codes for implementation Java application.
+File hist_muzej_bazaa.sql is appropriate SQL script, and other individual files are codes for implementation Java application. 
+
+Also, main window of application is implemented by Window1.java.
 
 The application consists of 11 frames including the main initial. Application development is
 arranged in multiple .java files. After launching the application, the main window opens and we can
